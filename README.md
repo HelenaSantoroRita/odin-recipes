@@ -1,2 +1,3 @@
-Cosa sto per fare ?
-UN sito dove cerchiamo ricette partendo da un index
+What am I about to do?
+
+A recipe site.
