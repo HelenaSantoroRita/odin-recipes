@@ -1,0 +1,11 @@
+* {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif  ;
+    background-color: linen;
+    color: coral;
+    text-align: center;
+}
+
+a:hover {
+    color: rgb(21, 171, 171);
+}
+ 
